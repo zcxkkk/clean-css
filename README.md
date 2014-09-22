@@ -17,6 +17,11 @@ According to [tests](http://goalsmashers.github.io/css-minification-benchmark/) 
 ```
 Node.js 0.8.0+ (tested on CentOS, Ubuntu, OS X 10.6+, and Windows 7+)
 ```
+```
+lalalalal
+lalala
+System.out.println();
+````
 
 ### How to install clean-css?
 
